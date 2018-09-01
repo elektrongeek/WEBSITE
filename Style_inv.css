@@ -8,7 +8,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #006400;
-   
+
 
 }
 
@@ -28,8 +28,7 @@ li a {
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #D2691E;
-    color: white 
-   
+    color: white
 }
 
 th {
@@ -37,28 +36,31 @@ th {
     color: white;
 }
 
-table{
-margin: 10px;
+table {
+    margin: 10px;
     padding: 10px;
     border-collapse: collapse;
 
 }
 
-th, td {
-    
-    border-bottom: 5Px solid #006400;
-   
-   text-align: center;
+th,
+td {
 
-   background-color: black;
+    border-bottom: 5Px solid #006400;
+
+    text-align: center;
+
+    background-color: black;
 }
-tr{color: white;
+
+tr {
+    color: white;
 
 
 }
 
 caption {
- 
-  color: white;
-  font-weight: bold;
+
+    color: white;
+    font-weight: bold;
 }
