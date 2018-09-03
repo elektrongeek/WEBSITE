@@ -43,7 +43,7 @@ table {
 
 }
 
-th,
+
 td {
 
     border-bottom: 5Px solid #006400;
@@ -64,3 +64,10 @@ caption {
     color: white;
     font-weight: bold;
 }
+
+footer{ 
+position: absolute;
+    bottom: 0;
+    
+}
+
