@@ -59,9 +59,7 @@ footer {
     color: white
 }
 
-a:link {
-    color: #006400
-}
+a:link{color: white;}
 
 
 a:hover {
@@ -70,10 +68,11 @@ a:hover {
 footer
 {
     text-align:center;
-    position: 
+    position:absolute; 
     bottom:0;
     width:100%;
     display:inline-block;
     vertical-align:top;
     font-size:13px;
 }
+
